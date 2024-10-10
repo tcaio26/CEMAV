@@ -1,0 +1,12 @@
+Type: Package
+Package: CEMAV
+Title: Cadeias Estocásticas de Memória Variável
+Version: 0.0.0.9000
+Authors@R: 
+    person("Caio Théodore", "Genovese Huss Oliveira", , "caiotheodore26@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Pacote destinado às funções criadas ao longo da iniciação científica "Introdução às cadeias estocásticas de memória variável".
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
